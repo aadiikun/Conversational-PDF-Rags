@@ -7,11 +7,9 @@ streamlit
 langchain-groq
 pypdf
 pymupdf
-wikipedia
 chromadb
 sentence_transformers
 langchain_huggingface
 langchain-text-splitters
-faiss-cpu
 langchain-chroma
 langchain-chains
